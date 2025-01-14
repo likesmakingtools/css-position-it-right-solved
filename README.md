@@ -104,3 +104,13 @@ This assignment should prove that a student is able to:
 -   [x] The footer should be anchored to the bottom of the viewport, ensuring it remains visible even while scrolling.
 -   [x] The section label should stay fixed in its parent while the user is scrolling through the current section.
 -   [x] The content should not get obscured by any of the containers at the top and bottom of the page.
+
+`For the AI Gone Wild exercise`
+
+-   [x] Animation with rotation is shown.
+-   [x] Animation with disappearing/appearing is shown.
+-   [x] Animation with changing dimensions is shown.
+-   [x] Animation with movement around some position is shown.
+-   [x] Animation on object hover event is shown.
+-   [x] Animation with color changing is shown.
+-   [x] Every facial feature item except for the face shape is animated.
